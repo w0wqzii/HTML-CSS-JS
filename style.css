@@ -1,0 +1,249 @@
+< !DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>replit</title><link href="css/style.css" rel="stylesheet" type="text/css" /></head><body><section><nav class="menu"><ul><a href="#"><li class="list-item">Обо мне</li></a><a href="#"><li class="list-item">Образование</li></a><a href="#"><li class="list-item">Опыт работы</li></a></ul></nav></section><section><div id="head-img"><h1>Сайт-портфолио Яценко Константин </h1></div><div><h2>Обо мне</h2></div><div><h2>Образование</h2></div><div><h2>Опыт работы</h2></div></section><script src="js/script.js"></script></body></html>html {
+  height: 100%;
+  width: 100%;
+  font-size: 19px;
+}
+
+body {
+  background-color: #3651d9;
+  color: #030303;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #0b47f9;
+}
+
+.list-item {
+  display: inline-block;
+  padding-right: 40px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#head-img {
+  background-image: url("/img/123321.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 70vh;
+}
+
+h2 {
+  text-align: center;
+}
+
+#head-text {
+  text-align: left;
+  padding: 150px 100px;
+  color: #000000;
+}
+
+#гугл {
+  width: 300px;
+  padding: 2px 5px;
+  float: inline-start;
+}
+
+p {
+  text-align: justify;
+  padding-right: 60px;
+}
+
+table {
+  width: 100%;
+}
+
+able,
+td,
+th {
+  border: 3px solid #78b2dd;
+  text-align: center;
+}
+
+bytton {
+  background-color: #04670a;
+  border: none;
+  color: #151bc6;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) @media screen and (max-width: 1023px) @media screen and (max-width: 640px) * {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v5_2 {
+  width: 100%;
+  height: 2428px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v5_14 {
+  width: 100%;
+  height: 89px;
+  background: rgba(137, 15, 15, 1);
+  opacity: 1;
+  position: absolute;
+  top: 527px;
+  left: 229px;
+  border-top-left-radius: 80px;
+  border-bottom-left-radius: 80px;
+  overflow: hidden;
+}
+
+.v5_3 {
+  width: 100%;
+  height: 90px;
+  background: rgba(137, 15, 15, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v5_10 {
+  width: 100%;
+  height: 614px;
+  background: url("../images/v5_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 683px;
+  left: 101px;
+  border-top-left-radius: 133px;
+  border-top-right-radius: 133px;
+  border-bottom-left-radius: 133px;
+  border-bottom-right-radius: 133px;
+  overflow: hidden;
+}
+
+.v5_11 {
+  width: 100%;
+  height: 614px;
+  background: url("../images/v5_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1410px;
+  left: 101px;
+  border-top-left-radius: 133px;
+  border-top-right-radius: 133px;
+  border-bottom-left-radius: 133px;
+  border-bottom-right-radius: 133px;
+  overflow: hidden;
+}
+
+.v9_2 {
+  width: 100%;
+  height: 437px;
+  background: url("../images/v9_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  overflow: hidden;
+}
+
+.v9_3 {
+  width: 916px;
+  color: rgba(196, 29, 29, 1);
+  position: absolute;
+  top: 273px;
+  left: 262px;
+  font-family: Libre Barcode 39 Text;
+  font-weight: Regular;
+  font-size: 150px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v10_6 {
+  width: 546px;
+  color: rgba(209, 26, 26, 1);
+  position: absolute;
+  top: 1297px;
+  left: 461px;
+  font-family: Libre Barcode 39 Text;
+  font-weight: Regular;
+  font-size: 87px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v10_7 {
+  width: 322px;
+  color: rgba(209, 26, 26, 1);
+  position: absolute;
+  top: 2024px;
+  left: 573px;
+  font-family: Libre Barcode 39 Text;
+  font-weight: Regular;
+  font-size: 87px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v10_8 {
+  width: 468px;
+  color: rgba(27, 3, 3, 1);
+  position: absolute;
+  top: 10px;
+  left: 266px;
+  font-family: Iceland;
+  font-weight: Regular;
+  font-size: 87px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v10_9 {
+  width: 431px;
+  color: rgba(27, 3, 3, 1);
+  position: absolute;
+  top: 6px;
+  left: 834px;
+  font-family: Iceland;
+  font-weight: Regular;
+  font-size: 87px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v10_5 {
+  width: 100%;
+  color: rgba(27, 2, 2, 1);
+  position: absolute;
+  top: 520px;
+  left: 259px;
+  font-family:
